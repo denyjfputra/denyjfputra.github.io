@@ -545,7 +545,7 @@ $(document).ready(function() {
             attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         });
     var map = L.map('map', {
-        center: [-6.174, 106.8450],
+        center: [-6.202362, 106.811938],
         zoom: 13,
         // layers: OpenMapSurfer_Roads,
         layers: CartoDB,
