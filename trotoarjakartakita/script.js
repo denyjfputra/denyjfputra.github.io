@@ -546,7 +546,7 @@ $(document).ready(function() {
         });
     var map = L.map('map', {
         center: [-6.202362, 106.811938],
-        zoom: 14,
+        zoom: 15,
         // layers: OpenMapSurfer_Roads,
         layers: CartoDB,
         timeDimension: true,
